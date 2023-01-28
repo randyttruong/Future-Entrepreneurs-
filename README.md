@@ -1,4 +1,4 @@
-# Getting Stated Guide 
+# Getting Started (Initializing Website)
 In order to run the page, execute the following command in terminal (or whatever terminal emulator you 
 have): 
 ```
