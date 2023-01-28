@@ -18,11 +18,11 @@ components
 2. Meet the Team
 3. FAQ
 4. Getting Involved 
-  1. Donations (embedded PayPal) 
-  2. Volunteer sign-up
+	1. Donations (embedded PayPal) 
+	2. Volunteer sign-up
 5. Blog 
 6. Calendar 
-  1. Event schedule 
-  2. Scheduling your own meetings
+	1. Event schedule 
+	2. Scheduling your own meetings
 
 
